@@ -18,13 +18,10 @@ namespace Sedc.OOP.class5.ClassedAndObjects.app
                 Age = 20,
                 Name = "Vlatko"
             };
-            person1.Talk("Hello students");
 
+            person1.Talk("Hello students");
             Person person2 = new Person("Bob", 23);
             person2.Talk("Bob is my name");
-
-
-
         }
     }
 }

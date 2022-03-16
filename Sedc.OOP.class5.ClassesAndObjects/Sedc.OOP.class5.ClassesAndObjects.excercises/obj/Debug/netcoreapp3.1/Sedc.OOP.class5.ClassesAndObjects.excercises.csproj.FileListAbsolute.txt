@@ -1,0 +1,14 @@
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\bin\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.exe
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\bin\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.deps.json
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\bin\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.runtimeconfig.json
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\bin\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.runtimeconfig.dev.json
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\bin\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.dll
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\bin\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.pdb
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\obj\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.csproj.AssemblyReference.cache
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\obj\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\obj\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.AssemblyInfoInputs.cache
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\obj\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.AssemblyInfo.cs
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\obj\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.csproj.CoreCompileInputs.cache
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\obj\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.dll
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\obj\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.pdb
+C:\Users\timotej.bojarovski\source\repos\c-\Sedc.OOP.class5.ClassesAndObjects\Sedc.OOP.class5.ClassesAndObjects.excercises\obj\Debug\netcoreapp3.1\Sedc.OOP.class5.ClassesAndObjects.excercises.genruntimeconfig.cache
