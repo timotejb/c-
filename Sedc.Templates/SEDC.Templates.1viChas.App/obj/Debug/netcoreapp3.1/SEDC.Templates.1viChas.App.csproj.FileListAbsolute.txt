@@ -1,0 +1,14 @@
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\bin\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.exe
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\bin\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.deps.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\bin\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.runtimeconfig.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\bin\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.runtimeconfig.dev.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\bin\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.dll
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\bin\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.pdb
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\obj\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.csproj.AssemblyReference.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\obj\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\obj\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.AssemblyInfoInputs.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\obj\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.AssemblyInfo.cs
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\obj\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.csproj.CoreCompileInputs.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\obj\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.dll
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\obj\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.pdb
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.Templates\SEDC.Templates.1viChas.App\obj\Debug\netcoreapp3.1\SEDC.Templates.1viChas.App.genruntimeconfig.cache

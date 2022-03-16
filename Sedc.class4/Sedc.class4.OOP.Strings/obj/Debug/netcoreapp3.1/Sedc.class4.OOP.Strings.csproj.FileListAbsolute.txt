@@ -1,0 +1,14 @@
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.exe
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.deps.json
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.runtimeconfig.json
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.runtimeconfig.dev.json
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.dll
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.pdb
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.csproj.AssemblyReference.cache
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.AssemblyInfoInputs.cache
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.AssemblyInfo.cs
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.csproj.CoreCompileInputs.cache
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.dll
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.pdb
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Strings\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Strings.genruntimeconfig.cache

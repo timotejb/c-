@@ -1,0 +1,14 @@
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\bin\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.exe
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\bin\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.deps.json
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\bin\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.runtimeconfig.json
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\bin\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.runtimeconfig.dev.json
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\bin\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.dll
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\bin\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.pdb
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\obj\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\obj\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.AssemblyInfoInputs.cache
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\obj\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.AssemblyInfo.cs
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\obj\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.csproj.CoreCompileInputs.cache
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\obj\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.dll
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\obj\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.pdb
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\obj\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.genruntimeconfig.cache
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.OOP.class4.dates\obj\Debug\netcoreapp3.1\Sedc.OOP.class4.dates.csproj.AssemblyReference.cache

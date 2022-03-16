@@ -1,0 +1,14 @@
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.exe
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.deps.json
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.runtimeconfig.json
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.runtimeconfig.dev.json
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.dll
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\bin\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.pdb
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.csproj.AssemblyReference.cache
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.AssemblyInfoInputs.cache
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.AssemblyInfo.cs
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.csproj.CoreCompileInputs.cache
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.dll
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.pdb
+C:\Users\timotej.bojarovski\source\repos\Sedc.class4\Sedc.class4.OOP.Excercises\obj\Debug\netcoreapp3.1\Sedc.class4.OOP.Excercises.genruntimeconfig.cache

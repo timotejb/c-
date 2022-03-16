@@ -1,0 +1,14 @@
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\bin\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.exe
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\bin\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.deps.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\bin\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.runtimeconfig.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\bin\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.runtimeconfig.dev.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\bin\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.dll
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\bin\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.pdb
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\obj\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.csproj.AssemblyReference.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\obj\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\obj\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.AssemblyInfoInputs.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\obj\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.AssemblyInfo.cs
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\obj\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.csproj.CoreCompileInputs.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\obj\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.dll
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\obj\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.pdb
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\SEDC.OOP.class2.Variables1\obj\Debug\netcoreapp3.1\SEDC.OOP.class2.Variables1.genruntimeconfig.cache

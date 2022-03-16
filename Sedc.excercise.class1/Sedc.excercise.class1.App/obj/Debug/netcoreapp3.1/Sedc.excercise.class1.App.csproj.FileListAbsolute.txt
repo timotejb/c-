@@ -1,0 +1,13 @@
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\bin\Debug\netcoreapp3.1\Sedc.excercise.class1.App.exe
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\bin\Debug\netcoreapp3.1\Sedc.excercise.class1.App.deps.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\bin\Debug\netcoreapp3.1\Sedc.excercise.class1.App.runtimeconfig.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\bin\Debug\netcoreapp3.1\Sedc.excercise.class1.App.runtimeconfig.dev.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\bin\Debug\netcoreapp3.1\Sedc.excercise.class1.App.dll
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\bin\Debug\netcoreapp3.1\Sedc.excercise.class1.App.pdb
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\obj\Debug\netcoreapp3.1\Sedc.excercise.class1.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\obj\Debug\netcoreapp3.1\Sedc.excercise.class1.App.AssemblyInfoInputs.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\obj\Debug\netcoreapp3.1\Sedc.excercise.class1.App.AssemblyInfo.cs
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\obj\Debug\netcoreapp3.1\Sedc.excercise.class1.App.csproj.CoreCompileInputs.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\obj\Debug\netcoreapp3.1\Sedc.excercise.class1.App.dll
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\obj\Debug\netcoreapp3.1\Sedc.excercise.class1.App.pdb
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.excercise.class1\Sedc.excercise.class1.App\obj\Debug\netcoreapp3.1\Sedc.excercise.class1.App.genruntimeconfig.cache

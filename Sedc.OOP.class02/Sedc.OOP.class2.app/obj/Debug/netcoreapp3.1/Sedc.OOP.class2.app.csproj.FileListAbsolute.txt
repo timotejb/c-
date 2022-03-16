@@ -1,0 +1,14 @@
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\bin\Debug\netcoreapp3.1\Sedc.OOP.class2.app.exe
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\bin\Debug\netcoreapp3.1\Sedc.OOP.class2.app.deps.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\bin\Debug\netcoreapp3.1\Sedc.OOP.class2.app.runtimeconfig.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\bin\Debug\netcoreapp3.1\Sedc.OOP.class2.app.runtimeconfig.dev.json
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\bin\Debug\netcoreapp3.1\Sedc.OOP.class2.app.dll
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\bin\Debug\netcoreapp3.1\Sedc.OOP.class2.app.pdb
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\obj\Debug\netcoreapp3.1\Sedc.OOP.class2.app.csproj.AssemblyReference.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\obj\Debug\netcoreapp3.1\Sedc.OOP.class2.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\obj\Debug\netcoreapp3.1\Sedc.OOP.class2.app.AssemblyInfoInputs.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\obj\Debug\netcoreapp3.1\Sedc.OOP.class2.app.AssemblyInfo.cs
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\obj\Debug\netcoreapp3.1\Sedc.OOP.class2.app.csproj.CoreCompileInputs.cache
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\obj\Debug\netcoreapp3.1\Sedc.OOP.class2.app.dll
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\obj\Debug\netcoreapp3.1\Sedc.OOP.class2.app.pdb
+C:\Users\timotej.bojarovski\Desktop\solutions\Sedc.OOP.class02\Sedc.OOP.class2.app\obj\Debug\netcoreapp3.1\Sedc.OOP.class2.app.genruntimeconfig.cache
