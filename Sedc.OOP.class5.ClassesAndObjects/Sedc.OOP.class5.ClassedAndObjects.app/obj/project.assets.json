@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\timotej.bojarovski\\source\\repos\\Sedc.OOP.class5.ClassesAndObjects\\Sedc.OOP.class5.ClassedAndObjects.app\\Sedc.OOP.class5.ClassedAndObjects.app.csproj",
+      "projectUniqueName": "C:\\Users\\timotej.bojarovski\\source\\repos\\c-\\Sedc.OOP.class5.ClassesAndObjects\\Sedc.OOP.class5.ClassedAndObjects.app\\Sedc.OOP.class5.ClassedAndObjects.app.csproj",
       "projectName": "Sedc.OOP.class5.ClassedAndObjects.app",
-      "projectPath": "C:\\Users\\timotej.bojarovski\\source\\repos\\Sedc.OOP.class5.ClassesAndObjects\\Sedc.OOP.class5.ClassedAndObjects.app\\Sedc.OOP.class5.ClassedAndObjects.app.csproj",
+      "projectPath": "C:\\Users\\timotej.bojarovski\\source\\repos\\c-\\Sedc.OOP.class5.ClassesAndObjects\\Sedc.OOP.class5.ClassedAndObjects.app\\Sedc.OOP.class5.ClassedAndObjects.app.csproj",
       "packagesPath": "C:\\Users\\timotej.bojarovski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\timotej.bojarovski\\source\\repos\\Sedc.OOP.class5.ClassesAndObjects\\Sedc.OOP.class5.ClassedAndObjects.app\\obj\\",
+      "outputPath": "C:\\Users\\timotej.bojarovski\\source\\repos\\c-\\Sedc.OOP.class5.ClassesAndObjects\\Sedc.OOP.class5.ClassedAndObjects.app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\timotej.bojarovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
